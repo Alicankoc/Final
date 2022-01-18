@@ -4,6 +4,9 @@
 ### import seaborn as sns
 ### data = np.random.randint(100, size=(100,100))
 ### print(data)
+
+Commands entered with import allow us to use them. data = np.random.randint(100, size=(100,100)) command is used to create a 100*100 matrix. Imaging was performed with the print command. 
+
 ![resim](https://user-images.githubusercontent.com/95621469/149931797-b86ab985-4b20-4c27-8724-f89bf8ada00c.png)
 ### import numpy as np; np.random.seed(0)
 ### import seaborn as sns; sns.set_theme()
