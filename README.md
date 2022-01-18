@@ -1,6 +1,6 @@
 # Final
-## import numpy as np
-## import matplotlib.pylab as plt
+### import numpy as np
+### import matplotlib.pylab as plt
 import seaborn as sns
 data = np.random.randint(100, size=(100,100))
 print(data)
